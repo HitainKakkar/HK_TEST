@@ -36,16 +36,3 @@
 - [Stripe Payments Show](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)
 [![Stripe Payment](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)
 
-## Quick start
-
-- [Download from Github](https://github.com/aaroncodehub/amazon-clone/archive/master.zip) or clone the repo: `git clone https://github.com/aaroncodehub/amazon-clone.git`
-
-- Make sure your NodeJS and npm versions are up to date for `16.13.1`
-
-- Install dependencies: `npm install` or `yarn`
-
-- Start the server: `npm run start` or `yarn start`
-
-- Views are on: `localhost:3000`
-
-- Payment API Endpoint: `https://us-central1-github-c5c88.cloudfunctions.net/amazonStripeApi` or <br/> Get a local endpoint: `firebase emulators:start`
