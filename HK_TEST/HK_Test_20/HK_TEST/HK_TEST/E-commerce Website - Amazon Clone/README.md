@@ -21,7 +21,5 @@
 | ✔ react bootstrap / AntDesign               | -
 
 ## Demo
-
-- [Stripe Payments Show](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)
 [![Stripe Payment](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)
 
